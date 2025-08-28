@@ -40,13 +40,6 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jepi-software&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepi-software&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierresoto/)
