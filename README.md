@@ -2,21 +2,21 @@
 
 ### 👨‍💻 Full Stack Developer | Payment Systems FinTech & Travel Tech
 
-¡Hola! [cite_start]Soy Jean Pierre Soto Delgado, un apasionado desarrollador Full Stack con 9 años de experiencia, ubicado en Puebla, México[cite: 3, 5, 6, 8]. [cite_start]Mi carrera se ha centrado en los sectores de FinTech y Travel Tech, donde he liderado la integración de sistemas de pago y la construcción de arquitecturas de microservicios[cite: 4, 9].
+¡Hola! Soy Jean Pierre Soto Delgado, un apasionado desarrollador Full Stack con 9 años de experiencia, ubicado en Puebla, México. Mi carrera se ha centrado en los sectores de FinTech y Travel Tech, donde he liderado la integración de sistemas de pago y la construcción de arquitecturas de microservicios.
 
-- [cite_start]🔭 Actualmente estoy desarrollando mi propio SaaS, **[jepitravel.com](https://jepitravel.com)**, para digitalizar los negocios turísticos en los "pueblos mágicos" de México[cite: 10].
-- [cite_start]🌱 Mi enfoque principal es la implementación de metodologías ágiles como Scrum y Kanban, y la adopción de prácticas DevOps para garantizar la entrega de soluciones seguras y de alta calidad[cite: 11, 20].
-- [cite_start]🎓 Estoy a punto de finalizar mi **Maestría en Desarrollo y Operaciones de Software (DevOps)**, lo que refuerza mis conocimientos con las mejores prácticas del sector[cite: 12].
-- [cite_start]📫 Puedes ver mis proyectos en mi portafolio: **[jepisoft.com](https://jepisoft.com)**[cite: 7].
+- 🔭 Actualmente estoy desarrollando mi propio SaaS, **[jepitravel.com](https://jepitravel.com)**, para digitalizar los negocios turísticos en los "pueblos mágicos" de México.
+- 🌱 Mi enfoque principal es la implementación de metodologías ágiles como Scrum y Kanban, y la adopción de prácticas DevOps para garantizar la entrega de soluciones seguras y de alta calidad.
+- 🎓 Estoy a punto de finalizar mi **Maestría en Desarrollo y Operaciones de Software (DevOps)**, lo que refuerza mis conocimientos con las mejores prácticas del sector.
+- 📫 Puedes ver mis proyectos en mi portafolio: **[jepisoft.com](https://jepisoft.com)**.
 
 ---
 
 ### ✨ Habilidades Clave
 
-* [cite_start]**💳 Integración de Pagos:** Tengo experiencia liderando integraciones y certificaciones con procesadores de pago como American Express, Stripe, Open Pay, Global Payment (HSBC), EVO Payment y CyberSource[cite: 14].
-* [cite_start]**🏛️ Arquitectura y Cloud:** Cuento con amplia experiencia en arquitecturas de microservicios y prácticas DevOps en entornos de nube como AWS, Azure y DigitalOcean[cite: 15].
-* [cite_start]**⚙️ DevOps y CI/CD:** Poseo un sólido entendimiento y experiencia en la configuración de pipelines CI/CD en GitHub Actions y Azure DevOps, despliegues automatizados con Docker, y el uso de herramientas de AWS como Fargate ECS, SQS y Lambda[cite: 18].
-* [cite_start]**✈️ Tecnología de Viajes (Travel Tech):** He creado soluciones digitales para el sector turístico, incluyendo un SaaS que digitaliza negocios y la migración de sistemas legacy a interfaces 100% responsive para hoteles, vuelos y tours[cite: 19].
+* **💳 Integración de Pagos:** Tengo experiencia liderando integraciones y certificaciones con procesadores de pago como American Express, Stripe, Open Pay, Global Payment (HSBC), EVO Payment y CyberSource.
+* **🏛️ Arquitectura y Cloud:** Cuento con amplia experiencia en arquitecturas de microservicios y prácticas DevOps en entornos de nube como AWS, Azure y DigitalOcean.
+* **⚙️ DevOps y CI/CD:** Poseo un sólido entendimiento y experiencia en la configuración de pipelines CI/CD en GitHub Actions y Azure DevOps, despliegues automatizados con Docker, y el uso de herramientas de AWS como Fargate ECS, SQS y Lambda.
+* **✈️ Tecnología de Viajes (Travel Tech):** He creado soluciones digitales para el sector turístico, incluyendo un SaaS que digitaliza negocios y la migración de sistemas legacy a interfaces 100% responsive para hoteles, vuelos y tours.
 
 ---
 
