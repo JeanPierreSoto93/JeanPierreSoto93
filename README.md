@@ -42,8 +42,8 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPierreSoto93&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreSoto93&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jepi-software&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepi-software&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
